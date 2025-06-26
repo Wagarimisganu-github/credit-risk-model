@@ -16,7 +16,7 @@ credit-risk-scoring-model/
 │   └── settings.json
 ├── .github/
 │   └── workflows/
-│       └── unittests.yml   # GitHub Actions
+│       └── ci.yml   # GitHub Actions
 ├── .gitignore              # files and folders to be ignored by git
 ├── requirements.txt        # contains dependencies for the project
 ├── README.md               # Documentation for the projects
