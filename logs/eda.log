@@ -1,0 +1,7 @@
+2024-10-04 22:38:57,182 INFO Data loaded successfully.
+2024-10-04 22:38:57,278 INFO Data overview analysis completed.
+2024-10-04 22:38:57,444 INFO Summary statistics of numeric columns completed
+2024-10-04 22:40:25,462 INFO univariate analysis of numeric columns completed
+2024-10-04 22:40:26,036 INFO univariate analysis of categorical columns completed
+2024-10-04 22:40:27,283 INFO outlier detection for numeric columns completed
+2024-10-04 22:40:29,802 INFO Bivariate analysis completed
