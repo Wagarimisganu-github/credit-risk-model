@@ -1,4 +1,4 @@
-# Credit Risk Scoring Model
+# Credit Scoring Model
 
 ## Overview
 This project develops a credit scoring model for Bati Bank's buy-now-pay-later service in partnership with an eCommerce company. The model aims to assess customer creditworthiness and predict the likelihood of default.
@@ -44,7 +44,7 @@ credit-risk-scoring-model/
 
 1. Clone the repository:
    ```
-   git clonehttps://github.com/OL-YAD/credit-risk-scoring-model.git
+   git clonehttps://github.com/Wagarimisganu-github/credit-risk-model.git
    cd credit-risk-scoring-model
    ```
 
